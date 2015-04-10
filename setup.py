@@ -11,6 +11,7 @@ setup(
     author='Alen Mujezinovic',
     author_email='alen@caffeinehit.com',
     url = 'https://github.com/Sunno/django-oauth2-provider',
+    download_url = 'https://github.com/Sunno/django-oauth2-provider',
     packages= find_packages(exclude=('tests*',)),
     classifiers=[
         'Environment :: Web Environment',
